@@ -1,5 +1,3 @@
-# QR_Code_Generator
-Python - PyQRCode
 
 # QR Code Generator
 
